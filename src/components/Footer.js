@@ -3,7 +3,7 @@ import React from "react";
 export function Footer() {
   return (
     <footer>
-      <small>Copyright 2022</small>
+      <small><a href="mailto:skant743@gmail.com">skant743@gmail.com </a></small>
     </footer>
   );
 }

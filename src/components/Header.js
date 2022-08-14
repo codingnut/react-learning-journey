@@ -5,7 +5,7 @@ export default function Header(){
         <header>
           <nav className="main-nav">
             <img src="/logo192.png" width="100px" />
-            <h1> React learning Journey</h1>
+            <h1>Shashi Kant</h1>
           </nav>
         </header>
     );
