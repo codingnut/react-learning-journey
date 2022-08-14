@@ -1,10 +1,10 @@
-import React from "react"
+import React from "react";
 
-export default function Footer() {
-    return (
-      <footer>
-           <small>Copyright 2022</small>
-      </footer>
-     
-    )
+export function Footer() {
+  return (
+    <footer>
+      <small>Copyright 2022</small>
+    </footer>
+  );
 }
+export {Footer as  MainFooter}

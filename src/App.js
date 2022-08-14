@@ -1,6 +1,6 @@
 import Header from "./components/Header";
 import Content from "./components/Content";
-import Footer from "./components/Footer";
+import {MainFooter} from "./components/Footer";  // { } required for named export/import
 import logo from "./logo.svg";
 import "./App.css";
 
@@ -9,7 +9,7 @@ function App() {
     <div className="App container">
       <Header />
       <Content />
-      <Footer />
+      <MainFooter />
     </div>
   );
 }
