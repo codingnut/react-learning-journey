@@ -10,6 +10,9 @@ export default function Content() {
           <li>09-08-2022: Import export, created first react app using npx</li>
           <li>14-08-2022: Migrated the standalone react Journey page to regular react app & deployed to Vercel </li>
           <li>15-08-2021: React Props. New Airbnb project <a target='_blank' href='https://airbnb-home.vercel.app/'>https://airbnb-home.vercel.app/</a></li>
+          <li>16-08-2021: Improved the Airbnb project added slider component</li>
+          <li>18-08-2021: Data rendering (js object)</li>
+          <li>22-08-2021: Events & form handling</li>
         </ul>
     </main>
     );
